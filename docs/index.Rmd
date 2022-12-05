@@ -1,7 +1,7 @@
 ---
 title: "Your A4 Report Title (TODO: Revise title)"
-author: "Your Name"
-date: '2022-11-01'
+author: "Alani Gayles"
+date: '2022-11-22'
 output: html_document
 ---
 
@@ -11,30 +11,11 @@ source("../source/analysis.R")
 ```
 
 ## Abstract 
-[TODO: Include a short abstract (about 50 words)]
-
-# Test (TODO: Remove before submission!!)
-```{r echo=FALSE}
-q1_string <- test_query1()
-num <- 5
-```
-As you know, this is a markdown report. The [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) is **useful!**
-
-* Here's a test of a dynamic variable. Say **"`r q1_string`!!!** 
-* Here's another test. A vector
-of numbers: `r test_query2(num)`.
-
-Recall that _{r echo=TRUE}_ can be used to display the code, 
-which is very useful when developing and debugging a report. Here's an example: 
-
-```{r echo=TRUE}
-num <- 5
-sum <- sum(test_query2(num))
-print(sum)
-```
+Incarceration in the United States have had a focus in smaller rural communities with number that are larger than that compared to big cities. This causes problems such as higher poverty rates, a thin safety net, and unnecessary taxpayer dollars to locking up vulnerable citizens. 
 
 ## Introduction 
-[TODO]
+  In this assignment, my goal is to expose patterns of inequalities in the American jail system. Throughout the last couple of decades, incarceration numbers have continued to grow at a fast rate, with 90% being male and the other 10% in prisons and jails being women. Criminal activity, prisons, and jails are usually made up with men from similar communities and possibly families leaving women at home alone raising children, and men confronting possibilities of separation from society and their family. 
+  With this data, the direct stakeholders are the prison facilities and government who collect the people and data within the prison. The indirect stakeholders are those who are in jail and their families who are waiting for them. There are thousands of people in jail for life because of race, gender, petty crimes that are now legalized, and much more. These people are now just data points being collected. 
 
 ## Data Summary 
 [TODO]
