@@ -5,9 +5,8 @@ date: '2022-11-22'
 output: html_document
 ---
 
-```{r echo=FALSE, eval=TRUE, message=FALSE}
-source("../source/a4-helpers.R")
-source("../source/analysis.R")
+```{r setup, include=FALSE}
+source("analysis.R")
 ```
 
 ## Abstract 
